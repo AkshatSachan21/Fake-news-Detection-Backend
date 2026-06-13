@@ -1,0 +1,7 @@
+flask
+scikit-learn
+pandas
+gunicorn
+newspaper3k
+lxml_html_clean
+numpy
